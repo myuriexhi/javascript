@@ -18,22 +18,11 @@ PART-1
 15.codding challenges #4
 16.javascript releses
 
-
-
-
-
-
-
-
-
-
-
-
 PART-2
 
 1.section introduction
 2.activiting strict mode
-3.function declration vs expression 
+3.function declration vs expression
 4.arrow functions
 5.functions calling other functions
 6.reviewing functions
@@ -50,3 +39,14 @@ PART-2
 17.looping backwards and loops in loops
 18.while loop
 19.codding challenges #4
+
+3.DEVELOPER SKILLS & EDITOR SETUP
+-section introduction
+-setting up prettier and vs code
+-instaling node js and setting up a dev environment
+-learning how to code
+-how to think like a developer become a problem user
+-using google stakoverflow and MDN
+-DEBUGGING
+-debugging with the console and breakpoints
+-codding challenge#1
